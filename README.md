@@ -1,5 +1,9 @@
 #  Hi, I'm Prabhat Mishra 👋
 
+
+**Full-Stack & AI Developer** | Passionate about building scalable apps with **PHP, JavaScript, Python, React, and Cloud/DevOps**.  
+Currently working on an **AI-powered job management system** at **LD Talent** that automates job assignments, extension requests, and integrates multiple AI models.
+
 ---
 
 ##  What I’m Working On
@@ -7,7 +11,7 @@
 | Priority         | Project                                | Technology Stack                     | Highlights                                                                 |
 |------------------|----------------------------------------|--------------------------------------|---------------------------------------------------------------------------|
 | ⭐ Showcase       | **Task Scheduler (WordPress Plugin)**  | PHP / HTML / CSS / JSON              | Complete task management, email reminders via cron, unsubscribe links, stored in text-based JSON, no DB—mirrors real-world plugin design |
-| ⭐ Showcase       | **E-Learning Management System (MERN)**   | Node.js / Express / MongoDB / React  | Full-stack CRUD REST API, modular design, deployed with CI/CD             |
+| ⭐ Showcase       | **AI Management Application** (LD Talent)  | Python, Flask/Django, FastAPI, OpenAI API, NumPy, Pandas, scikit-learn, LangChain | AI assigns projects automatically, handles extension requests, and integrates LLMs for decision-making. |           |
 | ⭐ DevOps         | **Dockerized Dev Stack**               | Docker / Bash / GitHub Actions        | Containerized PHP app, automated build/test workflow                      |
 | Active Learning  | **Open-Source Contributions**          | WordPress Core, PHPMailer, FreeCodeCamp | Documentation fixes, bug patches, and enhancements across PHP & JS OSS projects |
 
