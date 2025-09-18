@@ -17,6 +17,11 @@ Currently working on an **AI-powered job management system** at **LD Talent** th
 
 ---
 
+### 🌍 Open Source Contributions
+- ✅ [Merged PR: Fix CSRF email input in AspGoat](https://github.com/Soham7-dev/AspGoat/pull/65)  
+  *Removed unnecessary form-control class from CSRF email input, improving code clarity.*  
+
+
 ##  Skills Overview
 
 Languages:       PHP (8+), JavaScript (ES6+), HTML5, CSS3
