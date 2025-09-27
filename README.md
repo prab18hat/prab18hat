@@ -75,7 +75,7 @@ Other:           System Design Fundamentals, Object-Oriented PHP, Responsive UI
 
 ## Let’s Connect
 
-LinkedIn: in/prabhat-mishra-8a39521ba
+LinkedIn: https://www.linkedin.com/in/prabhat-mishra-8a39521ba/
 
 Email: prabhatmdi8953@gmail.com
 
