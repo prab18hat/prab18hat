@@ -4,17 +4,6 @@
   <img src="https://img.shields.io/badge/PHP%20Enthusiast-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Open Source Coding"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Open Source" width="600"/>
-</p>
-
-
 #  Hi, I'm Prabhat Mishra 👋
 
 Full-Stack & AI Developer | Open Source Contributor | Passionate about building scalable apps with PHP, JavaScript, Python, React, and Cloud/DevOps.  
