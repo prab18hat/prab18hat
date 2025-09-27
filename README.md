@@ -1,25 +1,54 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding gif" width="600"/>
+</p>
+
+
 #  Hi, I'm Prabhat Mishra 👋
 
+Full-Stack & AI Developer | Open Source Contributor | Passionate about building scalable apps with PHP, JavaScript, Python, React, and Cloud/DevOps.  
 
-**Full-Stack & AI Developer** | Passionate about building scalable apps with **PHP, JavaScript, Python, React, and Cloud/DevOps**.  
-Currently working on an **AI-powered job management system** at **LD Talent** that automates job assignments, extension requests, and integrates multiple AI models.
+Currently contributing to WordPress ecosystem and actively involved in bug fixes, enhancements, and feature improvements across PHP-based projects.  
+
+## ⚡ Tech I Work With  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 
 ---
 
-##  What I’m Working On
+## 🌍 Open Source Contributions  
 
-| Priority         | Project                                | Technology Stack                     | Highlights                                                                 |
-|------------------|----------------------------------------|--------------------------------------|---------------------------------------------------------------------------|
-| ⭐ Showcase       | **Task Scheduler (WordPress Plugin)**  | PHP / HTML / CSS / JSON              | Complete task management, email reminders via cron, unsubscribe links, stored in text-based JSON, no DB—mirrors real-world plugin design |
-| ⭐ Showcase       | **AI Management Application** (LD Talent)  | Python, Flask/Django, FastAPI, OpenAI API, NumPy, Pandas, scikit-learn, LangChain | AI assigns projects automatically, handles extension requests, and integrates LLMs for decision-making. |           |
-| ⭐ DevOps         | **Dockerized Dev Stack**               | Docker / Bash / GitHub Actions        | Containerized PHP app, automated build/test workflow                      |
-| Active Learning  | **Open-Source Contributions**          | WordPress Core, PHPMailer, FreeCodeCamp | Documentation fixes, bug patches, and enhancements across PHP & JS OSS projects |
+| Status      | Repository & PR Link | Contribution Summary |  
+|-------------|----------------------|----------------------|  
+| ✅ Merged   | [wp-graphql/wp-graphql #3318](https://github.com/wp-graphql/wp-graphql/pull/3419) | Fixed update button visibility issue when plugin version was changed in WordPress – part of the new GraphQL version release. |  
+| ✅ Merged   | [Soham7-dev/ASPGoat #62](https://github.com/Soham7-dev/AspGoat/pull/65) | Fixed unnecessary `form-control` class in CSRF email input field,. |  
+| ⏳ In Review | WordPress & related plugins (3+ PRs) | Fixes for small bugs, coding standards, and enhancements – likely to get merged in the coming weeks. |  
+
+🏆 Mentioned in the upcoming WPGraphQL release for contributing to its new version—grateful to be part of it!
 
 ---
 
-### 🌍 Open Source Contributions
-- ✅ [Merged PR: Fix CSRF email input in AspGoat](https://github.com/Soham7-dev/AspGoat/pull/65)  
-  *Removed unnecessary form-control class from CSRF email input, improving code clarity.*  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prab18hat&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prab18hat&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 
 
 ##  Skills Overview
@@ -34,18 +63,16 @@ Version Control: Git, Git flow, pull request best practices
 Other:           System Design Fundamentals, Object-Oriented PHP, Responsive UI
 
 
-How I Work
+## How I Work  
 
-Clean, Modular Code: All repositories include documentation, well-structured code, and READMEs with install steps.
+- **Clean, Modular Code:** Well-documented repos with structured READMEs.  
+- **TDD & CI/CD:** Unit tests, linting, GitHub Actions for quality.  
+- **CLI Workflows:** Adept in terminal-based automation—cron jobs, Git, Linux scripting.  
+- **Community-Centric:** Actively contributing to WordPress & open-source communities.  
 
-TDD & CI/CD: Use unit tests, linting, and GitHub Actions to ensure quality and reliability.
+---
 
-Rustic CLI Workflows: Adept with terminal-based workflows—cron jobs, Git, Linux scripting.
-
-Community-Centric: Actively contributing to WordPress and supportive OSS communities.
-
-
-Let’s Connect
+## Let’s Connect
 
 LinkedIn: in/prabhat-mishra-8a39521ba
 
