@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding gif" width="600"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%92%9A-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress%20Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP%20Enthusiast-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
-
 
 #  Hi, I'm Prabhat Mishra 👋
 
